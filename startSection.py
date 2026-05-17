@@ -231,6 +231,8 @@ def report_progress(section_id):
 def get_valid_section_number():
     while True:
         # Prompt the user for input
+        print("Choose the Next Section!")
+        print("========================================")
         print("3 : Secure Firewall and Cyber Vision")
         print("4 : Splunk Enterprise and Cyber Vision")
         print("5 : Secure Equipment Access")
