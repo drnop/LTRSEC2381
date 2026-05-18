@@ -237,7 +237,7 @@ def get_valid_section_number():
         print("4 : Splunk Enterprise and Cyber Vision")
         print("5 : Secure Equipment Access")
         print("6 : Secure Network Analytics and Cyber Vision")
-        user_input = input("Please enter the number of the section you want to start (e.g. 2): ")
+        user_input = input("Please enter the number of the section you want to start (e.g. 3): ")
 
         try:
             # Convert the string input to an integer
